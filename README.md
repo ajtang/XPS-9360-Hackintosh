@@ -13,7 +13,7 @@ Booting is enabled using  OpenCore.
   - Dell DW1560 Wireless (eBay)
     - Wi-Fi device ID [`14e4:43b1`], shows as Apple Airport Extreme due to `FakePCIID_Broadcom_WiFi.kext`
     - Bluetooth device ID [`0a5c:216f`], chipset `20702A3` with firmware `v14 c5882` using `BrcmPatchRAM3.kext`
-  - Sonix Technology Webcam, device ID [`0c45:670c`], 
+  - Sonix Technology Webcam, device ID [`0c45:670c`] (Usable with FaceTimeHD.kext)
   - Validity Inc. Finger print scanner, device ID [`138a:0091`], [linux open-source project](https://github.com/hmaarrfk/Validity91)
   - Disabled devices
     - SD card reader, [macOS open-source project](https://github.com/sinetek/Sinetek-rtsx)
