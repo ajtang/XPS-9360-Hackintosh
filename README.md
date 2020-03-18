@@ -22,19 +22,6 @@ Booting is enabled using  OpenCore.
   - BIOS version `2.9.0`
   - Thunderbolt Controller firmware version `NVM 26`
 
-- External Devices
-  - [Caldigit USB-C Dock](http://a.co/8I1agKD)
-    - Supports USB-C PD (Power Delivery), Ethernet, 3x USB-3, USB-C, HDMI & DisplayPort connections
-  - [Dodocool 7-in-1 USB-C Hub](http://a.co/eGmk4K9)
-    - USB-C PD (Power Delivery), Ethernet, 1x USB-3 & HDMI connections
-  - [Benfei USB-C Adapter](http://a.co/1Lcm6Ot)
-    - USB-C PD (Power Delivery), Ethernet, 1x USB-3 & HDMI connections
-
-- Monitors
-  - [HP E273q 27" QHD TFT](http://www8.hp.com/us/en/products/monitors/product-detail.html?oid=18164507)
-  - [HP E272 27" QHD TFT](http://www8.hp.com/h20195/v2/GetDocument.aspx?docname=c04819807)
-  - [HP E222 21.5" HD TFT](http://www8.hp.com/ca/en/products/monitors/product-detail.html?oid=8402841)
-
 ## PREP
 
 ## UEFI Variables
