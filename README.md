@@ -8,12 +8,12 @@ Booting is enabled using  OpenCore.
 - Dell XPS 9360
   - Intel i7-8550U
   - 16GB RAM
-  - Sharp `SHP144` `LQ133Z1` QHD+ (3200x1800) Touchscreen display (VoodooI2C.kext)
+  - Sharp QHD+ (3200x1800) Touchscreen display (VoodooI2C.kext)
   - Samsing 960 EVO  NVME 512GB SSD 
   - Dell DW1560 Wireless (eBay)
     - Wi-Fi device ID [`14e4:43b1`], shows as Apple Airport Extreme due to `FakePCIID_Broadcom_WiFi.kext`
     - Bluetooth device ID [`0a5c:216f`], chipset `20702A3` with firmware `v14 c5882` using `BrcmPatchRAM3.kext`
-  - Sonix Technology Webcam, device ID [`0c45:670c`], works out of the box
+  - Sonix Technology Webcam, device ID [`0c45:670c`], 
   - Validity Inc. Finger print scanner, device ID [`138a:0091`], [linux open-source project](https://github.com/hmaarrfk/Validity91)
   - Disabled devices
     - SD card reader, [macOS open-source project](https://github.com/sinetek/Sinetek-rtsx)
